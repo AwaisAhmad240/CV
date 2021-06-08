@@ -1,0 +1,13 @@
+body {
+  background-color: #dbe2ef;
+}
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 8px;
+  border-color: grey;
+}
+h3:hover,h1:hover{
+  background-color: white;
+}
